@@ -1,6 +1,6 @@
 # Preppin-Data-Challenge----Customer-Classifications
 
-using PYTHON and SQL to complete the Preppin' Data Challenge -- Customer Classifications
+using Python and SQL respectively to complete the Preppin' Data Challenge -- Customer Classifications
 
 This challenge is from Tableau weekly Preppin' Data blog.
 
